@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.lyx.ro">
-    <img src="[images/logo.png](https://alyx.ro/logo.png)" alt="Logo" width="80" height="80">
+    <img src="https://alyx.ro/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Alyx Network</h3>
