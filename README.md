@@ -8,8 +8,9 @@
   <p align="center">
     Warm welcoming community for interested cheaters.
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://docs.alyx.ro/)"><strong>Public API</strong></a>
+    <a href="https://docs.alyx.ro"><strong>Public API</strong></a>
     <br />
     <br />
+    <a href="https://alyx.ro/discord">Discord</a>
   </p>
 </div>
